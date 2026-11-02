@@ -1,0 +1,51 @@
+ID_Solicitud,Zona,Tipo_Apoyo,Nivel_Cansancio,Requiere_Accesibilidad,Tiempo_Respuesta_Dias,Estatus,Motivo_Rechazo
+REQ-001,Centro,Orientación,Bajo,No,3.1,Vinculado,N/A
+REQ-002,Centro,Respiro,Medio,Sí,3.2,Vinculado,N/A
+REQ-003,Sur,Respiro,Medio,No,2.5,Vinculado,N/A
+REQ-004,Centro,Respiro,Alto,No,2.4,Sin Coincidencia,Horario incompatible
+REQ-005,Centro,Respiro,Medio,No,4.1,Vinculado,N/A
+REQ-006,Norte,Orientación,Medio,Sí,4.8,Sin Coincidencia,Zona lejana
+REQ-007,Centro,Orientación,Bajo,Sí,2.8,Vinculado,N/A
+REQ-008,Centro,Respiro,Bajo,No,3.6,Vinculado,N/A
+REQ-009,Sur,Respiro,Bajo,Sí,2.0,Vinculado,N/A
+REQ-010,Sur,Orientación,Bajo,Sí,2.8,Vinculado,N/A
+REQ-011,Norte,Respiro,Alto,Sí,2.8,Vinculado,N/A
+REQ-012,Centro,Respiro,Bajo,Sí,4.7,Vinculado,N/A
+REQ-013,Centro,Respiro,Medio,Sí,3.5,Vinculado,N/A
+REQ-014,Centro,Orientación,Alto,Sí,1.8,Vinculado,N/A
+REQ-015,Norte,Orientación,Medio,No,1.0,Vinculado,N/A
+REQ-016,Norte,Orientación,Medio,No,2.2,Vinculado,N/A
+REQ-017,Sur,Respiro,Medio,Sí,3.4,Vinculado,N/A
+REQ-018,Norte,Respiro,Bajo,No,3.5,Sin Coincidencia,Falta de cupo
+REQ-019,Centro,Orientación,Bajo,No,3.9,Sin Coincidencia,Horario incompatible
+REQ-020,Centro,Orientación,Alto,No,1.4,Vinculado,N/A
+REQ-021,Norte,Orientación,Alto,No,3.8,Vinculado,N/A
+REQ-022,Centro,Orientación,Bajo,Sí,3.2,Vinculado,N/A
+REQ-023,Centro,Respiro,Medio,No,3.7,Vinculado,N/A
+REQ-024,Norte,Orientación,Alto,No,3.9,Vinculado,N/A
+REQ-025,Norte,Respiro,Bajo,Sí,5.0,Vinculado,N/A
+REQ-026,Centro,Orientación,Bajo,Sí,4.3,Vinculado,N/A
+REQ-027,Centro,Respiro,Bajo,No,3.3,Sin Coincidencia,Falta de cupo
+REQ-028,Centro,Orientación,Medio,No,3.6,Vinculado,N/A
+REQ-029,Sur,Orientación,Bajo,No,2.2,Vinculado,N/A
+REQ-030,Sur,Orientación,Bajo,No,2.2,Vinculado,N/A
+REQ-031,Sur,Orientación,Bajo,No,1.3,Vinculado,N/A
+REQ-032,Norte,Respiro,Bajo,No,1.8,Vinculado,N/A
+REQ-033,Sur,Orientación,Alto,Sí,3.8,Vinculado,N/A
+REQ-034,Norte,Respiro,Alto,No,2.3,Vinculado,N/A
+REQ-035,Norte,Respiro,Bajo,No,3.7,Vinculado,N/A
+REQ-036,Sur,Respiro,Medio,Sí,4.5,Vinculado,N/A
+REQ-037,Sur,Respiro,Alto,Sí,3.4,Sin Coincidencia,Sin accesibilidad
+REQ-038,Sur,Orientación,Bajo,Sí,3.8,Vinculado,N/A
+REQ-039,Centro,Respiro,Alto,Sí,2.3,Vinculado,N/A
+REQ-040,Sur,Respiro,Alto,No,3.1,Vinculado,N/A
+REQ-041,Centro,Respiro,Medio,No,4.7,Vinculado,N/A
+REQ-042,Norte,Orientación,Bajo,No,2.1,Vinculado,N/A
+REQ-043,Centro,Orientación,Bajo,No,4.2,Vinculado,N/A
+REQ-044,Sur,Orientación,Medio,No,4.9,Sin Coincidencia,Zona lejana
+REQ-045,Norte,Orientación,Medio,No,3.7,Vinculado,N/A
+REQ-046,Norte,Respiro,Bajo,Sí,1.5,Vinculado,N/A
+REQ-047,Norte,Respiro,Bajo,No,3.5,Sin Coincidencia,Falta de cupo
+REQ-048,Centro,Orientación,Medio,Sí,3.1,Vinculado,N/A
+REQ-049,Sur,Respiro,Alto,Sí,3.7,Vinculado,N/A
+REQ-050,Norte,Respiro,Alto,No,3.9,Vinculado,N/A
