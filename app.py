@@ -43,11 +43,11 @@ pi = TCRIT * se * np.sqrt(1 + 1 / len(x) + (fut - x.mean()) ** 2 / ((x - x.mean(
 ve = sum(VAN[k] * PROB[k] for k in VAN)
 acum = np.cumsum([-INV] + FLUJOS)
 
-def sem(ok, warn): return "🟢" if ok else ("🟡" if warn else "🔴")
+def sem(ok, warn): return "" if ok else ("" if warn else "")
 
 st.title("Casi la mitad de las personas cuidadoras reporta cansancio: la vinculación de apoyos puede atender a 8 de cada 10 solicitudes")
 st.caption("Audiencia: dirección de Sembrando Esperanza para una Mañana Brillante, A.C. · Diagnóstico: INEGI (ENASIC 2022, ENUT 2024, ENIGH 2024). "
-           "⚠️ Las solicitudes, el histórico y el desempeño del matching son DATOS SINTÉTICOS; el diagnóstico local aún no se levanta.")
+           " Las solicitudes, el histórico y el desempeño del matching son DATOS SINTÉTICOS; el diagnóstico local aún no se levanta.")
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Tasa de vinculación (simulada)", f"{tasa_v:.0%}", help="Vinculadas / solicitudes filtradas. Meta: 80 %.")
